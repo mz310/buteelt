@@ -2,13 +2,10 @@ package labs;
 public class circle {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello");
-		System.out.println("------------------------------------------------------------");
-		 System.out.println("CircleCalc v1.0");
-		 System.out.println();
-		 System.out.println("Calculates and prints information for a user-supplied radius");
-		 System.out.println("------------------------------------------------------------");
-		 
+		System.out.println("Hello");
+		System.out.println("Hello111");
+		System.out.println("2024-05");
 	}
 
 }
+//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
